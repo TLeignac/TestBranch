@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
             duration = 5000
         })
         System.out.print("git c'est trop cool")
+        System.out.print("on s'éclate avec les branches git")
     }
 }
 
