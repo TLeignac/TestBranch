@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         })
         System.out.print("git c'est trop marrant")
         System.out.print("on s'éclate avec les branches git")
+        System.out.print("un jour, je serais un pro github")
     }
 }
 
