@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
             duration = 5000
         })
         System.out.print("c'est chouette de tout casser")
+        System.out.print("toujours plus de modifs")
     }
 }
 
