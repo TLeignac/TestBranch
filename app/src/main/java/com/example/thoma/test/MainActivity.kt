@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
             setFillAfter(true)
             duration = 5000
         })
+        System.out.print("git c'est trop cool")
     }
 }
 
