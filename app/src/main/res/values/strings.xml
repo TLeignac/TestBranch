@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title_no_animation">No animation</string>
+    <string name="title_launch_rocket">Launch a rocket</string>
+    <string name="textview">TextView</string>
+    <string name="changer_de_page">Changer de page</string>
+    <string name="name">Name</string>
+</resources>
